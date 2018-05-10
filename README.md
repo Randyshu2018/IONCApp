@@ -27,8 +27,6 @@ cd IONCApp
 
 ### Invoke Methods
 
-#### transfer at a batch
-
 ```
 curl -s -X POST \
   http://127.0.0.1:8080/transfer \

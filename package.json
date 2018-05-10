@@ -12,8 +12,7 @@
     "truffle-contract": "~3.0.5",
     "truffle-wallet-provider": "github:blockchain-technical-practice/truffle-wallet-provider",
     "express": "~4.16.3",
-    "body-parser": "^1.17.1",
-    "http": "^0.0.0"
+    "body-parser": "^1.17.1"
   },
   "license": "ISC"
 }

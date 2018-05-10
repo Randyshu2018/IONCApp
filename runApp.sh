@@ -6,7 +6,7 @@ function installNodeModules() {
 		echo "============== node modules installed already ============="
 	else
 		echo "============== Installing node modules ============="
-		npm install
+		npm install --registry=https://registry.npm.taobao.org
 	fi
 	echo
 }
